@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Itens de Solução/" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ExemploComPOO/ExemploComPOO.csproj" />
+  <Project Path="RetanguloComPOO/RetanguloComPOO.csproj" />
+</Solution>
