@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Terreno
+{
+    internal class terreno
+    {
+        //Campos
+        public double largura, comprimento, valor;
+
+       //Construtor
+       public terreno(double largura, double comprimento, double valor)
+        {
+            this.largura = largura;
+            this.comprimento = comprimento;
+            this.valor = valor;
+        }
+
+        //Métodos
+        public double Area()
+        {
+            return largura * comprimento;
+        }
+
+        public double Preco()
+        {
+            return Area() * valor;
+        }
+
+        public void Saida()
+        {
+            Console.WriteLine($"Area do terreno = {Area()}");
+            Console.WriteLine($"Preço do terreno = R$ {Preco()}");
+        }
+    }
+}

@@ -1,0 +1,5 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 02\Terreno\Terreno\obj\Debug\net10.0\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 02\Terreno\Terreno\obj\Debug\net10.0\Terreno.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 02\Terreno\Terreno\obj\Debug\net10.0\Terreno.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 02\Terreno\Terreno\obj\Debug\net10.0\Terreno.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 02\Terreno\Terreno\obj\Debug\net10.0\Terreno.sourcelink.json
