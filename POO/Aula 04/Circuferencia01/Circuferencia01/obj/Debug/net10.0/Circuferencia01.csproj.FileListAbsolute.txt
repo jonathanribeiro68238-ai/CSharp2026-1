@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.exe
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.deps.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\refint\Circuferencia01.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\ref\Circuferencia01.dll
