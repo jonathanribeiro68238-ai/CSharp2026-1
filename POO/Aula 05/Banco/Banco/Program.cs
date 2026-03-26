@@ -1,0 +1,39 @@
+﻿using Banco;
+using static System.Console;
+using static System.Globalization.CultureInfo;
+
+Title = "Abertura de conta";
+ContaBancaria conta;
+
+WriteLine("Abertura de conta - Nika Investment");
+Write("Entre com um número de conta: ");
+int numero = int.Parse(ReadLine());
+Write("Entre com o nome do titular: ");
+string nome = ReadLine();
+Write("Deseja fazer depósito inicial (s/n): ");
+char resposta = char.Parse(ReadLine().ToLower());
+
+if (resposta == 's')
+{
+    Write("Entre com o valor de depósito inicial: R$");
+    double Deposito = double.Parse(ReadLine());
+   conta = new ContaBancaria(numero, nome, Deposito);
+}
+else
+{
+   conta = new ContaBancaria(numero, nome);
+}
+
+conta.Dados();
+
+
+WriteLine("Entre com o valor de depósito : R$ ");
+double quantia = double.Parse(ReadLine());
+conta.Deposito(quantia);
+conta.Dados();
+WriteLine("Entre com um valor para saque: R$ ");
+quantia = double.Parse(ReadLine());
+conta.Saque(quantia);
+conta.Dados();
+
+ReadKey();
