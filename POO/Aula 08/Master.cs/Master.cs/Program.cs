@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Master;
+using Master.cs;
+
+Conta conta = new Conta(12345, 1500.56, new Pessoa("Clodoaldo", 12345));
+
+var a = conta.ToString();
+Console.WriteLine(a);
