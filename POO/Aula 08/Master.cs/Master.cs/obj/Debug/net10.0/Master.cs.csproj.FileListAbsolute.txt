@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\bin\Debug\net10.0\Master.cs.exe
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\bin\Debug\net10.0\Master.cs.deps.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\bin\Debug\net10.0\Master.cs.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\bin\Debug\net10.0\Master.cs.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\bin\Debug\net10.0\Master.cs.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\refint\Master.cs.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\Master.cs.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\Master.cs\Master.cs\obj\Debug\net10.0\ref\Master.cs.dll

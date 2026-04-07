@@ -4,11 +4,11 @@
     
     {
         public string nome;
-        public int cpf;
+        public long cpf;
 
 
         //Construtor
-        public Pessoa(string nome, int cpf)
+        public Pessoa(string nome, long cpf)
         {
             this.nome = nome;
             this.cpf = cpf;
