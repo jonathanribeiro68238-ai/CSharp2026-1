@@ -86,12 +86,39 @@
 
 
         }
-       
+
         ///<summary>
         ///Realiza um saque na conta, diminuindo o saldo
         ///Cobra automaticamente uma taxa de R$5.00 por saque.
         ///Importante: Permite saldo negativo se não ouver fundos.
         /// </summary>
         /// <param name="valor">Valor a ser sacado (deve ser positivo, não inclui a taxa)</param>
+        /// 
+        public void Saque(double valor)
+        {
+            if (valor <= 0)
+            {
+                Console.WriteLine("Valor de saque deve ser positivo");
+                return;
+            }
+
+            Saldo -= (valor + taxaSaque);
+            Console.WriteLine($"Saque de {valor:C} realizado com sucesso! Taxa de {taxaSaque:C} cobrada.");
+        }
+        /// <summary>
+        /// Exibe os dados da conta no console
+        /// Mostra número da conta, titular e saldo atual
+        /// </summary>
+        public void ExibirDados()
+        {
+            Console.WriteLine("\n---Dados da conta---");
+            Console.WriteLine($"Conta: {NumeroConta}");
+            Console.WriteLine($"Titular: {Titular}");
+            Console.WriteLine($"Saldo: {Saldo:C}");
+            Console.WriteLine("--------------------\n");
+        }
+
+
+      
     }
 }
