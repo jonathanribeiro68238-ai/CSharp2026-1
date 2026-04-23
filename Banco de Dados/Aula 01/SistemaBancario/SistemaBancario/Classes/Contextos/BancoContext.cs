@@ -2,38 +2,35 @@
 using SistemaBancario.Classes.Entidades;
 
 namespace SistemaBancario.Classes.Contextos
-
 {
     internal class BancoContext : DbContext
     {
-        ///<summary>
-        /// banco de dados
-        /// 
-        /// Db permite realizar operações CRUD
+        //Propriedadas
+        /// <summary>
+        /// Representa a tabela de contas bancárias no banco de dados
+        /// DbSet permite realizar operações CRUD
         /// </summary>
-        public DbSet<Banco> contas {  get; set; }
+        public DbSet<Banco> Contas { get; set; }
 
-        // metodos
+        //Métodos
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // Use a file-based SQLite database to avoid dependency on LocalDB/SQL Server
-            // which may not be available on the machine. This keeps the app self-contained
-            // and avoids the LocalDB startup error described in the issue.
-            optionsBuilder.UseSqlite("Data Source=BancoDB.db");
+            // Use a file-based SQLite database to avoid dependency on LocalDB/SQL Server instance
+            optionsBuilder.UseSqlServer(
+                @"Server=ECFP507D1319377\SQLEXPRESS
+                ;Database=Banco;Trusted_Connection=True;TrustServerCertificate=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Banco>(
-                entity =>
+            entity =>
             {
-                entity.HasKey(e=>e.Id);
+                entity.HasKey(e => e.Id);
                 entity.Property(e => e.NumeroConta).IsRequired();
                 entity.Property(e => e.Titular).IsRequired().HasMaxLength(50);
-                // Use decimal(18,2) which is a valid SQL Server column type for monetary values
                 entity.Property(e => e.Saldo).HasColumnType("decimal(18,2)");
             }
-
 
             );
         }
