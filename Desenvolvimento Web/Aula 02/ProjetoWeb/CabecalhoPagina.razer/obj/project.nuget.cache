@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NKhO3oMsCo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FIC\\Documents\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb\\CabecalhoPagina.razer\\CabecalhoPagina.razor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIC\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
