@@ -1,9 +1,12 @@
 wwwroot\app.css
-wwwroot\stylecadastro.cs
+wwwroot\stylecadastro.css
+wwwroot\stylelista.css
 Components\Layout\ReconnectModal.razor.js
 C:\Users\FIC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\build\..\_framework\blazor.web.js
 C:\Users\FIC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\build\..\_framework\blazor.server.js
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb\ProjetoWeb\wwwroot\app.css
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb\ProjetoWeb\wwwroot\stylelista.css
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb\ProjetoWeb\Components\Layout\ReconnectModal.razor.js
 C:\Users\FIC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\_framework\blazor.web.js
 C:\Users\FIC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\_framework\blazor.server.js
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb\ProjetoWeb\wwwroot\stylecadastro.css
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb\ProjetoWeb\wwwroot\app.css
