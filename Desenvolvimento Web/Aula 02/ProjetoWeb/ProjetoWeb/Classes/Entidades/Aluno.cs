@@ -11,8 +11,8 @@ namespace ProjetoWeb.Classes.Entidades
 
         public string StatusAction { get; set; } = "Aguardando aprovação";
 
-        public Cursos CursoId { get; set; }
+        public int CursoId { get; set; }
 
-        public TipoRegra Regra { get; set; } = TipoRegra.Usuario;
+        public TipoRegra Regra { get; set; } = TipoRegra.usuario;
     }
 }

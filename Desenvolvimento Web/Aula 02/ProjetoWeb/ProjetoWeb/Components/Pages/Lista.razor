@@ -1,6 +1,12 @@
 ﻿@page "/listadeusuarios"
+@using ProjetoWeb.Dados
+@using ProjetoWeb.Classes.Entidades
+@using Microsoft.EntityFrameworkCore
+@inject AlunoContext alunoContext
+@rendermode InteractiveServer
+
 @using Microsoft.AspNetCore.Components.Sections
-<CabecalhoPagina/>
+<CabecalhoPagina />
 
 <section class="lista-alunos-section">
     <div class="lista-alunos-container">
