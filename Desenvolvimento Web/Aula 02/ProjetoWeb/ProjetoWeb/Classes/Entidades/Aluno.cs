@@ -4,6 +4,8 @@ namespace ProjetoWeb.Classes.Entidades
 {
     public class Aluno : Usuario
     {
+        internal string? nome;
+
         //PROP
         public int RA {  get; set; }
 
