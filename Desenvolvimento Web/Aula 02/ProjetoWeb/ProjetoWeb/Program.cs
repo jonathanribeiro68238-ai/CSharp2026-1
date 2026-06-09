@@ -14,6 +14,8 @@ builder.Services.AddRazorComponents()
 
 builder.Services.AddDbContext<AlunoContext>();
 
+builder.Services.Add()
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
