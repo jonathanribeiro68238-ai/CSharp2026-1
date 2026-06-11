@@ -15,6 +15,7 @@ namespace AplicativoDesktop01
             bool comparacao1 = textBox1.Text == usuario;
             bool comparacao2 = textBox2.Text == senha;
 
+
             if (comparacao1 & comparacao2)
             {
                 MessageBox.Show("Usuario e senha corretos!");
@@ -32,9 +33,5 @@ namespace AplicativoDesktop01
             }
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

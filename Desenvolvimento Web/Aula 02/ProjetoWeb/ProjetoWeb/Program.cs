@@ -1,6 +1,9 @@
 using ProjetoWeb.Components;
 using ProjetoWeb.Dados;
-using ProjetoWeb01.Classes.Entidades;
+using ProjetoWeb.Classes.Entidades;
+using ProjetoWeb.Classes.Serv;
+using ProjetoWeb01.Classes.Serv;
+
 
 using var context = new AlunoContext();
 
@@ -12,9 +15,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+//Serviços da página
 builder.Services.AddDbContext<AlunoContext>();
-
-builder.Services.Add()
+builder.Services.AddScoped<AlunoService>();
+builder.Services.AddScoped<AuthService>();
 
 var app = builder.Build();
 

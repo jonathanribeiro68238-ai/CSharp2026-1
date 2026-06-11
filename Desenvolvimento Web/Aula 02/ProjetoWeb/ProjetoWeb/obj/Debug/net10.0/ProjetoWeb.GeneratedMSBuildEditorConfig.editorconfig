@@ -62,6 +62,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJjaWFpc1xDYWJlY2FsaG9QYWdpbmEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/FIC/Documents/CSharp2026/Desenvolvimento Web/Aula 02/ProjetoWeb/ProjetoWeb/Components/Pages/Parciais/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJjaWFpc1xDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FIC/Documents/CSharp2026/Desenvolvimento Web/Aula 02/ProjetoWeb/ProjetoWeb/Components/Pages/Parciais/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJjaWFpc1xDb21wb25lbnQxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FIC/Documents/CSharp2026/Desenvolvimento Web/Aula 02/ProjetoWeb/ProjetoWeb/Components/Pages/Parciais/Component2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJjaWFpc1xDb21wb25lbnQyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/FIC/Documents/CSharp2026/Desenvolvimento Web/Aula 02/ProjetoWeb/ProjetoWeb/Components/Pages/Parciais/Rodape.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJjaWFpc1xSb2RhcGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
